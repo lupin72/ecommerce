@@ -1,5 +1,5 @@
 set :application, 'ecommerce'
-set :repo_url, 'git@example.com:me/my_repo.git'
+set :repo_url, 'git@github.com:lupin72/ecommerce.git'
 
 # Branch options
 # Prompts for the branch name (defaults to current branch)
