@@ -32,4 +32,4 @@ set :wpcli_local_url, -> {"http://ecommerce.dev/"}
 set :wpcli_local_uploads_dir, -> {"/Users/pierpaologorelli/Documents/Websites/sveltesse.it/web/app/uploads/"}
 set :wpcli_remote_uploads_dir, -> {"/srv/users/serverpilot/apps/#{fetch(:application)}/deploy/shared/web/app/uploads/"}
 
-after 'deploy:updated', 'gulp'
+#after 'deploy:updated', 'gulp'

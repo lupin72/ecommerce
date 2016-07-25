@@ -8,9 +8,9 @@ require 'capistrano/deploy'
 require 'capistrano/composer'
 
 require 'capistrano/wpcli'
-require 'capistrano/npm'
-require 'capistrano/bower'
-require 'capistrano/gulp'
+#require 'capistrano/npm'
+#require 'capistrano/bower'
+#require 'capistrano/gulp'
 
 # Loads custom tasks from `lib/capistrano/tasks' if you have any defined.
 # Customize this path to change the location of your custom tasks.
